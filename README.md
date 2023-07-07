@@ -5,7 +5,7 @@
 <p> Atualmente estou cursando Ciência da Computação 4/8 no Centro Universitário de Ensino Superior do Amazonas - CIESA, gosto de programação desde os 15 anos e atualmente tenho me dedicado a me tornar um dev fullstack.💻 </p>
 
 ## Redes Sociais 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:www.instagram.com/ph_mendes1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:www.instagram.com/ph_mendes1/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com)
 
 ## Tecnologias que tenho conhecimentos
