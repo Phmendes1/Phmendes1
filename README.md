@@ -2,7 +2,7 @@
 
 ### Olá pessoal! Eu sou o Paulo Henrique (PH)🖐️!
 
-<p> Atualmente estou cursando Ciência da Computação 4/8 no Centro Universitário de Ensino Superior do Amazonas - CIESA, gosto de programação desde os 15 anos e atualmente tenho me dedicado a me tornar um dev fullstack.💻 </p>
+<p> Atualmente estou cursando engenharia da Computação 8/10 no Centro Universitário FAMETRO, gosto de programação desde os 15 anos e atualmente tenho me dedicado a me tornar um dev fullstack.💻 </p>
 
 ## Redes Sociais 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:www.instagram.com/ph_mendes1/)
